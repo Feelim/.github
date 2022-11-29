@@ -1,5 +1,8 @@
 ## 필카의 A to Z! 찰칵과 함께 필카를 더욱 쉽게 즐겨보세요.
 
+![image](https://user-images.githubusercontent.com/70634740/204473746-f1cad777-d5cc-40b1-bb43-75dd1d3e2e65.png)
+
+
 <!--
 
 **Here are some ideas to get you started:**
